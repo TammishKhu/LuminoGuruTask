@@ -1,0 +1,17 @@
+export default {
+  Hey: 'Hey',
+  SearchProducts: 'Search Products or store',
+  DeliveryTo: 'Delivery to',
+  WithIn: 'Within',
+  Hour: 'Hour',
+  Recommended: 'Recommended',
+  ShoppingCart: 'Shopping Cart',
+  proceedToCheckout: 'Proceed To checkout',
+  subTotal: 'Sub Total',
+  Delivery: 'Delivery',
+  Total: 'Total',
+  CartEmpty: 'Cart is Empty',
+  NoProducts: 'No Products',
+  apiError: 'Api Error',
+  noNetworkError: 'No Network',
+};
